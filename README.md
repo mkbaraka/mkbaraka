@@ -81,12 +81,9 @@ Here are some ideas to get you started:
 
  
 
+<h4 align="center">Visitor's count :eyes:</h4>
 
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=mkbaraka.mkbaraka)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
+<p align="center"><img src="https://profile-counter.glitch.me/{mkbaraka}/count.svg" alt="mkbaraka :: Visitor's Count" /></p>
 
 
 <hr>
