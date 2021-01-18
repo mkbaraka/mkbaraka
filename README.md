@@ -71,14 +71,15 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mikel-martinez-a0697211a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mikel%20Martinez-purple?style=flat-square&logo=linkedin"></a>
 
 
-<a href="https://www.instagram.com/mikelmartinez12/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mikelmartinez12-black?style=flat-square&logo=instagram"> </a> 📲 Personal account 
+<a href="https://www.instagram.com/mikelmartinez12/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mikelmartinez12-purple?style=flat-square&logo=instagram"> </a> 📲 Personal account 
 
-<a href="https://www.instagram.com/mkft0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mkft0-black?style=flat-square&logo=instagram"></a> 📷 Photography  account 
+<a href="https://www.instagram.com/mkft0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mkft0-purple?style=flat-square&logo=instagram"></a> 📷 Photography  account 
 
 <a href="mailto:mikeltxu12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mikeltxu12@gmail.com-purple?style=flat-square&logo=gmail"></a>
 
 </p>
 
+ 
  
 
 <h4 align="center">Visitor's count :eyes:</h4>
