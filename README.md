@@ -1,20 +1,6 @@
 ### Hi there 👋<h2> 
   I'm Mikel Martinez, but you can call me Mk                 "∅" </h2>
 
-<!--
-**mkbaraka/mkbaraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <img align='right' src="https://media.giphy.com/media/Jk9veXoOzMrnC0Y1kU/giphy.gif" width="230">
 
@@ -34,21 +20,12 @@ Here are some ideas to get you started:
 
 
 
-- 💻 &nbsp; Python | Java | MySQL
+- 💻 &nbsp; Python | Java | C & C++ | MySQL
 
 - 🌐 &nbsp; HTML 
 
 - 💡 &nbsp; Photoshop | Illustrator | Lightroom | Premiere
 
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp;  Photoshop | Lightroom | Premiere
-
--->
 
 
 
