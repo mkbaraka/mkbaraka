@@ -8,7 +8,7 @@
 
 
 
-- ⚙️ &nbsp; Technlogy and Photography enthusiast.
+- ⚙️ &nbsp; Technology and Photography enthusiast.
 
 - 🎓 &nbsp; Studying Informatics Engineering at UD.
 
@@ -31,7 +31,7 @@
 
 <h3>🛠 Learning</h3>
 
-- 🔧 &nbsp;  Cybersecurity |  Metaesploit | Electronic | Tech
+- 🔧 &nbsp;  Cybersecurity |  Metaesploit | Electronic | Tech | Hardware
 
 <hr>
 
