@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Python | Java | C & C++ | MySQL
+- 💻 &nbsp; Python | Java | R | C & C++ | MySQL
 
-- 🌐 &nbsp; HTML 
+- 🌐 &nbsp; HTML | CSS | JavaScript | VUE
 
 - 💡 &nbsp; Photoshop | Illustrator | Lightroom | Premiere
 
@@ -31,7 +31,7 @@
 
 <h3>🛠 Learning</h3>
 
-- 🔧 &nbsp;  Cybersecurity |  Metaesploit | Electronic | Tech | Hardware
+- 🔧 &nbsp;  Cybersecurity |  Cloud Computing | Electronic | Tech | Hardware
 
 <hr>
 
@@ -43,8 +43,6 @@
 
 
 <p align="center">
-
-<a href="https://www.instagram.com/mikelmartinez12/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mikelmartinez12-purple?style=flat-square&logo=instagram"> </a> 📲 Personal account 
 
 <a href="https://www.instagram.com/mkft0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mkft0-purple?style=flat-square&logo=instagram"></a> 📷 Photography  account 
 
