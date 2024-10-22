@@ -1,20 +1,22 @@
-### Hi there 👋<h2> 
-  I'm Mikel Martinez, but you can call me Mk                 "∅" </h2>
+### <h1> Hi there 👋</h1> 
+ <h2> I'm Mikel Martinez </h2>
 
 
 <img align='right' src="https://media.giphy.com/media/Jk9veXoOzMrnC0Y1kU/giphy.gif" width="230">
 
+
+<br>
 <h3> 💻 About Me </h3>
 
 
 
-- ⚙️ &nbsp; Technology and Photography enthusiast.
+- ⚙️ &nbsp; Cybersecurity & Privacy Associate, with expertise in Cloud Security (AWS & Azure).
 
-- 🎓 &nbsp; Studying Informatics Engineering at UD.
+- 🎓 &nbsp; Informatics Engineer with Master's in Applied AI for Business.
 
-- 🌱 &nbsp; Always learning and improving, self-taught person.
+- 🌱 &nbsp; Always learning and improving, with a focus on self-development and technology trends.
 
-
+<br>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -23,32 +25,36 @@
 - 💻 &nbsp; Python | Java | R | C & C++ | MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | VUE
+  
+- ☁️ &nbsp; Cloud Platforms: AWS | Azure
+
+- 🛠  &nbsp; Infrastructure as Code (IaaC): Terraform
 
 - 💡 &nbsp; Photoshop | Illustrator | Lightroom | Premiere
 
+<br>
 
+<h3>🛠 Learning & Specializations</h3>
 
+- 🔧 &nbsp;  Cybersecurity | Cloud Computing | IaaC | Electronic | Tech | Hardware
 
-<h3>🛠 Learning</h3>
-
-- 🔧 &nbsp;  Cybersecurity |  Cloud Computing | Electronic | Tech | Hardware
-
-<hr>
-
-
-<h3>💬 Contact  </h3>
+- 🌐 &nbsp;  Specializing in Cloud Security, with an emphasis on AWS and Azure.
 
 <br>
 
+<h3>📜 Certifications</h3>
 
+&nbsp; ✅ &nbsp; AWS Cloud Practitioner<br>
+&nbsp; ✅ &nbsp; ENS (National Security Scheme)
+
+
+<hr>
+<h3>💬 Contact  </h3>
 
 <p align="center">
 
-<a href="https://www.instagram.com/mkft0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mkft0-purple?style=flat-square&logo=instagram"></a> 📷 Photography  account 
-
+<a href="mailto:mikeltxu12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mikeltxu12@gmail.com-purple?style=flat-square&logo=gmail"></a> <br>
 <a href="https://www.linkedin.com/in/mikel-martinez-a0697211a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mikel%20Martinez-purple?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:mikeltxu12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mikeltxu12@gmail.com-purple?style=flat-square&logo=gmail"></a>
 
 </p>
 
