@@ -44,8 +44,14 @@
 
 <h3>📜 Certifications</h3>
 
-&nbsp; ✅ &nbsp; AWS Cloud Practitioner<br>
-&nbsp; ✅ &nbsp; ENS (National Security Scheme)
+&nbsp; ✅ &nbsp; AWS Cloud Practitioner <br>
+&nbsp; ✅ &nbsp; Microsoft Certified: Azure Fundamentals (AZ-900)<br>
+&nbsp; ✅ &nbsp; ENS (National Security Scheme)<br>
+&nbsp; ✅ &nbsp; Audits in the ENS (National Security Scheme) 
+
+<br><br>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,js,angular,vue,firebase,php,html,css,bootstrap,postman,django,docker,py,r,java,eclipse,dynamodb,mongodb,mysql,nodejs,c,cpp,grafana,raspberrypi,arduino,github,kali,linux,ubuntu,bash,powershell,vscode,ps,pr,discord,bots,notion,apple)](https://skillicons.dev)
 
 
 <hr>
