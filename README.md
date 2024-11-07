@@ -51,7 +51,7 @@
 
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,js,angular,vue,firebase,php,html,css,bootstrap,postman,django,docker,py,r,java,eclipse,dynamodb,mongodb,mysql,nodejs,c,cpp,grafana,raspberrypi,arduino,github,kali,linux,ubuntu,bash,powershell,vscode,ps,pr,discord,bots,notion,apple)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,js,angular,vue,firebase,php,html,css,bootstrap,postman,django,docker,py,r,java,eclipse,dynamodb,mongodb,mysql,nodejs,c,cpp,grafana,raspberrypi,arduino,github,kali,linux,ubuntu,bash,powershell,vscode,ps,pr,discord,bots,notion,apple)
 
 
 <hr>
