@@ -45,8 +45,11 @@
 <h3>📜 Certifications</h3>
 
 &nbsp; ✅ &nbsp; AWS Cloud Practitioner <br>
+&nbsp; ✅ &nbsp; AWS Certified Solutions Architect - Associate<br>
+
 &nbsp; ✅ &nbsp; Microsoft Certified: Azure Fundamentals (AZ-900)<br>
 &nbsp; ✅ &nbsp; Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)<br>
+
 &nbsp; ✅ &nbsp; ENS (National Security Scheme)<br>
 &nbsp; ✅ &nbsp; Audits in the ENS (National Security Scheme) 
 
