@@ -49,6 +49,8 @@
 
 &nbsp; ✅ &nbsp; Microsoft Certified: Azure Fundamentals (AZ-900)<br>
 &nbsp; ✅ &nbsp; Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)<br>
+&nbsp; ✅ &nbsp; Microsoft Certified: Azure Security Engineer Associate (AZ-500)<br>
+
 
 &nbsp; ✅ &nbsp; ENS (National Security Scheme)<br>
 &nbsp; ✅ &nbsp; Audits in the ENS (National Security Scheme) 
